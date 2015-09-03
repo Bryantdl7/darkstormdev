@@ -1,3 +1,4 @@
 # darkstormdev
 Darkstorm Development Team
-y
+
+This is where all development requests/bugs will go from now on. 
