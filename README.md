@@ -11,6 +11,6 @@ Current Development Team Members
 
 -Zafiro - Developer
 
-/Accepting\
+/Accepting New members\
 
 -¤-
