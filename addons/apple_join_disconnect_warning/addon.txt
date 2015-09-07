@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"Player Spawn"
+	"version"	"1.01"
+	"up_date"	"2/3/2015"
+	"author_name"	"Mr. Apple"
+	"author_email"	"support@f4egaming.com"
+	"author_url"	"http://f4egaming.com"
+// If this for some reason EVER, I mean like EVER needs to be updated, just do it yourselfs, because it shouldn't take that long if Garry updated a hook or two ;)
+}

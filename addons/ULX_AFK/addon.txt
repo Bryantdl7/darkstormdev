@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"ULX AFK" 
+	"version"			"3.0"
+	"author_name"		"Mr.President, ULX Team"
+	"author_email"		"zpetty33@gmail.com"
+	"author_url"		"www.ulyssesmod.net"
+	"info"				"Robust AFK System"
+}
+
+
