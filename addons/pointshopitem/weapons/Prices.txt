@@ -1,0 +1,29 @@
+357 | 200
+AK47 | 350
+Crossbow | 200
+Crowbar | 200
+Damascus | 750
+Deagle | 250
+Fists | 250
+Gravity Gun | 25
+M9K Grenade | 850
+Harpoon | 800
+Ithica M37 | 350
+Laser Pointer | 1
+M4A1 | 350
+M24 | 650
+M79 GL | 4750
+M202 | 5250
+M249 Para | 450
+Matador | 5000
+Hands | 1
+Physgun | 25
+Pistol | 200
+Remote Controller | 1
+HL2 RPG | 4500
+Shotgun | 200
+SMG | 200
+Uzi | 250
+KRISS Vector | 450
+SCar Fuel | 1
+SCar Repair | 1
