@@ -1,7 +1,7 @@
-ITEM.Name = 'Gravity Gun'
-ITEM.Price = 25
-ITEM.Model = 'models/weapons/w_physics.mdl'
-ITEM.WeaponClass = 'weapon_physcannon'
+ITEM.Name = 'Fists'
+ITEM.Price = 250
+ITEM.Model = 'models/weapons/v_invisible_nade.mdl'
+ITEM.WeaponClass = 'm9k_fists'
 ITEM.SingleUse = true
 
 function ITEM:OnBuy(ply)

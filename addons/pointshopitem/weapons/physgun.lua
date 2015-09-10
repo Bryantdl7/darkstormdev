@@ -1,5 +1,5 @@
 ITEM.Name = 'Physics Gun'
-ITEM.Price = 200
+ITEM.Price = 25
 ITEM.Model = 'models/weapons/w_physics.mdl'
 ITEM.Skin = 2
 ITEM.WeaponClass = 'weapon_physgun'

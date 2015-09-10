@@ -1,5 +1,5 @@
 ITEM.Name = 'RPG'
-ITEM.Price = 200
+ITEM.Price = 4500
 ITEM.Model = 'models/weapons/w_rocket_launcher.mdl'
 ITEM.WeaponClass = 'weapon_rpg'
 ITEM.SingleUse = true

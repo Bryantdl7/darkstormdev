@@ -1,7 +1,7 @@
 ITEM.Name = 'Grenade'
-ITEM.Price = 200
-ITEM.Model = 'models/weapons/w_grenade.mdl'
-ITEM.WeaponClass = 'weapon_frag'
+ITEM.Price = 850
+ITEM.Model = 'models/weapons/w_m61_fraggynade_thrown.mdl'
+ITEM.WeaponClass = 'm9k_m61_frag'
 ITEM.SingleUse = true
 
 function ITEM:OnBuy(ply)
