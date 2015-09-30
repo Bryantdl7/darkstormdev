@@ -1,2 +1,2 @@
-CATEGORY.Name = 'Player Models'
-CATEGORY.Icon = 'user'
+CATEGORY.Name = 'Permanent Weapons'
+CATEGORY.Icon = 'bomb'
