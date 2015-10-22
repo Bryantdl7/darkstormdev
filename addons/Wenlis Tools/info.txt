@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"Wenlis Tools"
+	"version"		"1.5"
+	"up_date"		"24th March 2010"
+	"author_name"		"Wenli"
+	"author_email"		""
+	"author_url"		"http://wenlistools.sourceforge.net/"
+	"info"			"Includes: Axis/Ballsocket Centre, Physgun Build Mode, Precision Alignment - Made on Nodex"
+	"override"		"0"
+}
