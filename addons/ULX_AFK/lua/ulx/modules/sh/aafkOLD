@@ -1,3 +1,5 @@
+-- this file is actually not used
+
 CreateConVar("ulx_afk_flagminutes", 8, FCVAR_ARCHIVE, "How many minutes an player can be AFK before being flagged as AFK.")
 CreateConVar("ulx_afk_kickminutes", 10, FCVAR_ARCHIVE, "How many minutes an player can be AFK before being kicked.")
 CreateConVar("ulx_afk_ignoreadmins", 0, FCVAR_ARCHIVE, "Should we ignore AFK admins? (1=yes, 0=no).")
