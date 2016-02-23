@@ -1,7 +1,8 @@
-# darkstormdev - Darkstorm Servers' Development/Bug Tracker system
-Darkstorm Development Team
+# Darkstorm Servers' Development/Bug Tracker Team
 
-Current Development Team Members 
+
+
+# Current Development Team Members 
 
 -Bryant - Dispatcher
 
@@ -9,7 +10,9 @@ Current Development Team Members
 
 -Zafiro - Developer
 
-Past Development Team Members
+
+
+# Retired Development Team Members
 
 -Ligitimenty- Lead Developer
 
