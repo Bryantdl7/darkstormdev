@@ -1,4 +1,4 @@
-# darkstormdev
+# darkstormdev - Darkstorm Servers' Development/Bug Tracker system
 Darkstorm Development Team
 
 Current Development Team Members 
