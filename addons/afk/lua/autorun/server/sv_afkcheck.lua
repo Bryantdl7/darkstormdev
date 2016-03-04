@@ -20,9 +20,9 @@ hook.Add("PlayerInitialSpawn","afkcheck", function(ply)
 			end)
 		end)
 	end 	
---	if ply:IsAdmin() then
---		print(ply:Nick() .. " is an admin. AFK check turned off for them!")
---	end
+	if ply:IsAdmin() then
+		print(ply:Nick() .. " is an admin. AFK check turned off for them!")
+		end
 end)
 
 net.Receive("kickstop", function(len, ply)
