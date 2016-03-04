@@ -7,7 +7,7 @@ print("AFK Checker Version: 1.2 is now initialized!")
 
 hook.Add("PlayerInitialSpawn","afkcheck", function(ply)
 	--Creates uhh this is uh how long, how long the player should be on the server before showing the afk timer. Holy crap stop typing what I say.
-	if !ply:IsAdmin() then
+	if not ply:IsAdmin() then
 		timer.Create( "afktimer" .. ply:SteamID64(),GetConVarNumber("sv_afktime")*60,0, function()
 			if not IsValid(ply) then return end
 			net.Start("timerstart")
@@ -19,10 +19,7 @@ hook.Add("PlayerInitialSpawn","afkcheck", function(ply)
 				ply:Kick(GetConVarString("sv_kickmessage"))
 			end)
 		end)
-	end 	
-	if ply:IsAdmin() then
-		print(ply:Nick() .. " is an admin. AFK check turned off for them!")
-		end
+	end
 end)
 
 net.Receive("kickstop", function(len, ply)
