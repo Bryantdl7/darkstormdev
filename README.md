@@ -8,7 +8,7 @@
 
 -Mechanist - Root Developer
 
-- Linkjay Root Developer
+-Linkjay Root Developer
 
 -Zafiro - Part time Developer/Mapper
 
