@@ -6,11 +6,11 @@
 
 -Bryant - Dispatcher
 
--Mechanist - Lead Developer
+-Mechanist - Root Developer
 
--Zafiro - Developer
+- Linkjay Root Developer
 
--Linkjay1 - Part Time Lead
+-Zafiro - Part time Developer/Mapper
 
 # Retired Development Team Members
 
