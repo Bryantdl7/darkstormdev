@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Keypad"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "tool",
+	"tags": 
+	[
+		"roleplay",
+		"build"
+	]
+}"
+}
