@@ -1,6 +1,6 @@
 
 -----------------------------------
-0.5.1 (2/6/18)
+0.5.1 (2/6/18) 11AM EST
 
 -Added VCMod
 -Added in donation system(WIP)
