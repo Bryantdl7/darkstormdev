@@ -1,6 +1,7 @@
 # Darkstorm Servers' Development/Bug Tracker Team
 
 Please see the releases tab for changelogs for server(s)!
+Make sure to install https://desktop.github.com/ if you are a collaborator!
 
 # Current Development Team Members 
 
