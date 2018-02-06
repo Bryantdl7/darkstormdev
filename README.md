@@ -1,6 +1,6 @@
 # Darkstorm Servers' Development/Bug Tracker Team
 
-
+Please see the projects tab for changelogs for server(s)!
 
 # Current Development Team Members 
 
