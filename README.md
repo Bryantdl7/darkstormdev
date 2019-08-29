@@ -1,7 +1,14 @@
 # Darkstorm Servers' Development/Bug Tracker Team
 
+
+# Addon Requests
+- Please post in the issues tab
+- Make sure to include a URL for the addon
+- Set the subject as the addon you are requesting 
+
+
 Please see the releases tab for changelogs for server(s)!
-Make sure to install https://desktop.github.com/ if you are a collaborator!
+
 
 # Current Development Team Members 
 
