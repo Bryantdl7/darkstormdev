@@ -1,6 +1,6 @@
 # Darkstorm Servers' Development/Bug Tracker Team
 
-This is Darkstorms file repository! It is used for tracking issues, submitting feature requests, and maintaining files!
+This is Darkstorm Servers GIT Repository! It is used for tracking issues, submitting feature requests, and maintaining files!
 
 ## Code Of Conduct
 
