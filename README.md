@@ -4,7 +4,7 @@ This is Darkstorms file repository! It is used for tracking issues, submitting f
 
 ## Suggesting Addons and features
 
-To learn how to contribute, please look at [how to contribute](CONTRIBUTING.md)
+To learn how to suggest addons, features, and bugs, please look at [how to contribute](CONTRIBUTING.md).
 
 ## Current Development Team Members 
 
