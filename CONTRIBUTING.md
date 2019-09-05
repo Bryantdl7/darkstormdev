@@ -1,6 +1,6 @@
 # Contributing to Darkstorm servers
 
-Welcome, and thank you for your interest in comtributing to Darkstorm! This document will tell you how to create suggestions for the server!
+Welcome, and thank you for your interest in contributing to Darkstorm! This document will tell you how to create suggestions for the server!
 
 ## How to submit addon requests:
 
