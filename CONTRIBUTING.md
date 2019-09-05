@@ -1,8 +1,17 @@
- How to submit addon requests:
+# Contributing to Darkstorm servers
 
-- Please post in the issues tab
-- Make sure to include a URL for the addon
-- Set the subject as the addon you are requesting
+Welcome, and thank you for your interest in comtributing to Darkstorm!
+
+## How to submit addon requests:
+
+1. Please post in the issues tab
+2. **MAKE SURE NO ONE ELSE HAS MADE THE SAME ADDON REQUEST!** If someone has, comment you support on the prexisting issue.
+3. Make sure to include a URL for the addon
+4. Set the subject as the addon you are requesting
+
+## Asking Questions
+
+You may ask questions in our Discord server (https://discord.gg/PMhyGPh) or our fourm (https://forums.darkstormservers.com/index.php?action=forum)
 
 You also may also submit suggestions of any kind in the issues tab.
 
