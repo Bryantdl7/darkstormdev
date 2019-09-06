@@ -1,33 +1,33 @@
 # Darkstorm Servers' Development/Bug Tracker Team
 
+This is Darkstorm Servers GIT Repository! It is used for tracking issues, submitting feature requests, and maintaining files!
 
-# Addon Requests
-- Please post in the issues tab
-- Make sure to include a URL for the addon
-- Set the subject as the addon you are requesting 
+## Code Of Conduct
 
+We have ethical rules for you to follow when making an issue. Please read it [here](CODE_OF_CONDUCT.md)!
 
-Please see the releases tab for changelogs for server(s)!
+## Suggesting Addons and Features
 
+To learn how to suggest addons, features, and bugs, please look at [how to contribute](CONTRIBUTING.md). Anything not following the linked document will be removed.
 
-# Current Development Team Members 
+## Current Development Team Members 
 
--Bryant - Dispatcher
+- **Bryant:** Dispatcher
 
--Mechanist - Root Developer
+- **Mechanist:** Root Developer
 
--Linkjay - Root Developer
+- **Linkjay:** Root Developer
 
--Zafiro - Part time Developer/Mapper
+- **Zafiro:** Part time Developer/Mapper
 
-# Retired Development Team Members
+__Accepting New members!__
 
--Ligitimenty- Lead Developer
+## Retired Development Team Members
 
--McGill - Lead Developer
+- **Ligitimenty:** Lead Developer
 
--Legendary - Lead Developer
+- **McGill:** Lead Developer
 
-/Accepting New members\
+- **Legendary:** Lead Developer
 
 -¤-
