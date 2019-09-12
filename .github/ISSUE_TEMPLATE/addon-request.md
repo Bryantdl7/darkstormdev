@@ -2,7 +2,7 @@
 name: Addon request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: Addon Request
 assignees: ''
 
 ---
