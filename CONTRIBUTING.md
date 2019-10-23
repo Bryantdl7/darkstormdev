@@ -1,7 +1,5 @@
 # Contributing to Darkstorm servers
 
-Welcome, and thank you for your interest in contributing to Darkstorm! This document will tell you how to create suggestions for the server!
-
 ## How to submit addon requests:
 
 1. Open the issues tab.
@@ -14,12 +12,10 @@ Welcome, and thank you for your interest in contributing to Darkstorm! This docu
 1. Open the issues tab.
 2. Create a new issue. **MAKE SURE NO ONE ELSE HAS MADE THE SAME ADDON REQUEST!** If the topic already exists, you can comment on the prexisting issue, or thumbs up it to show your support.
 3. Set the subject to whatever the topic is.
-4. Talk about whatever you want in the description.
+4. Provide the steps to replicate the issue.
 
-## Asking Questions
+## Questions
 
-You may ask questions in our Discord server (https://discord.gg/PMhyGPh) or our fourm (https://forums.darkstormservers.com/index.php?action=forum)
+You can ask questions in our Discord server (https://darkstormservers.com/discord) or our fourm (https://forums.darkstormservers.com/index.php?action=forum)
 
-You also may also submit suggestions of any kind in the issues tab.
-
-Please see the releases tab for changelogs for server(s)!
+Aditionally, all changelogs can be found in the discord under #changelogs.
