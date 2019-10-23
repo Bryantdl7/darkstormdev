@@ -4,7 +4,7 @@ This is Darkstorm Servers GIT Repository. It is used for tracking issues, submit
 
 ## Rules
 
-    Follow [how to contribute](CONTRIBUTING.md)
+Follow [how to contribute](CONTRIBUTING.md)
 
 ## Suggesting Addons and Features
 
