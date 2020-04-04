@@ -1,5 +1,8 @@
 # Darkstorm Servers' Development/Bug Tracker Team
 
+
+#We have moved! Head over to https://github.com/Darkstorm-Servers/dev
+
 This is Darkstorm Servers GIT Repository. It is used for tracking issues, submitting feature requests, and maintaining files.
 
 ## Rules
